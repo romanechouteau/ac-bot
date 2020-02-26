@@ -1,0 +1,17 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appn.js",
+  "scripts": {
+    "build": "node app.js",
+    "test": "standard"
+  },
+  "author": "Romane Chouteau",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node-async-loop": "^1.2.2",
+    "twitter": "^1.7.1"
+  }
+}

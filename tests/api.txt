@@ -1,0 +1,11 @@
+https://nookipedia.com/w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3A%20Events&cmlimit=50
+
+https://nookipedia.com//w/api.php?action=query&format=json&prop=revisions&rvprop=content&pageids=241&rvsection=0
+
+https://nookipedia.com/w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3A%20Villagers&cmlimit=500
+
+https://nookipedia.com/w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3A%20Special_Characters&cmlimit=500
+
+https://nookipedia.com//w/api.php?action=query&format=json&prop=revisions&rvprop=content&pageids=450&rvsection=0&rvslots=*
+
+https://nookipedia.com//w/api.php?action=query&format=json&prop=pageprops&pageids=450
