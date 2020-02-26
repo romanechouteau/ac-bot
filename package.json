@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "appn.js",
+  "engines": {
+    "node": "12.14.1"
+  },
   "scripts": {
     "build": "node app.js",
     "test": "standard"
